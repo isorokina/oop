@@ -1,0 +1,1 @@
+print(f"Persona {self.name}, kuram ir {self.age} gadi")
